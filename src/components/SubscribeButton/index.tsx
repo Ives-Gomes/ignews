@@ -1,8 +1,10 @@
-import type { NextPage } from 'next'
-
 import styles from './styles.module.scss'
 
-const SubscribeButton: NextPage = () => {
+interface SubscribeButtonProps {
+  priceId: string;
+}
+
+const SubscribeButton = ({ priceId }: SubscribeButtonProps) => {
   return (
     <button
       type='button'

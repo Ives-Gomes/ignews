@@ -13,6 +13,9 @@
       "@styles/*": [
         "./src/styles/*"
       ],
+      "@service/*": [
+        "./src/service/*"
+      ],
     },
     "allowJs": true,
     "skipLibCheck": true,
