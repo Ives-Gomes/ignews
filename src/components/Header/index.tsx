@@ -1,6 +1,10 @@
+import type { NextPage } from 'next'
+
+import { SignInButton } from '@components/index'
+
 import styles from './styles.module.scss'
 
-const Header = () => {
+const Header: NextPage = () => {
   return (
     <header className={styles.headerContainer}>
       <div className={styles.headerContent}>
@@ -10,6 +14,8 @@ const Header = () => {
           <a className={styles.active}>Home</a>
           <a>Posts</a>
         </nav>
+
+        <SignInButton />
       </div>
     </header>
   );
