@@ -1,0 +1,124 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "publication",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Happen",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "heading1",
+        "text": "Stage",
+        "spans": []
+      },
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89",
+        "alt": null,
+        "copyright": null,
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Mollit eiusmod exercitation laborum deserunt fugiat. Culpa laboris est ex excepteur excepteur occaecat aliquip commodo occaecat mollit. Tempor anim reprehenderit laboris pariatur est consequat anim aliqua anim dolore esse consectetur officia officia aute.",
+        "spans": []
+      },
+      {
+        "type": "heading1",
+        "text": "Watch",
+        "spans": []
+      },
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51",
+        "alt": null,
+        "copyright": null,
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Exercitation veniam proident irure laboris proident aute fugiat irure Lorem sit excepteur. Mollit est enim do duis Lorem labore fugiat minim dolor deserunt tempor enim esse non nulla.",
+        "spans": []
+      },
+      {
+        "type": "heading1",
+        "text": "Enemy",
+        "spans": []
+      },
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+        "alt": null,
+        "copyright": null,
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Laboris ex cillum elit officia dolor qui dolor eu magna sint veniam in cillum et.",
+        "spans": []
+      },
+      {
+        "type": "heading1",
+        "text": "Income",
+        "spans": []
+      },
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa",
+        "alt": null,
+        "copyright": null,
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Aliquip tempor proident ut laboris qui voluptate Lorem proident duis tempor in irure eu consectetur. Lorem sunt et incididunt aliquip anim tempor officia id cupidatat adipisicing qui culpa elit ipsum. Do id do reprehenderit est exercitation non ex.",
+        "spans": []
+      },
+      {
+        "type": "heading1",
+        "text": "Behind",
+        "spans": []
+      },
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+        "alt": null,
+        "copyright": null,
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Cillum culpa magna ullamco officia occaecat aute aliqua exercitation irure do eu non ad et. Voluptate ipsum qui aute. Lorem est excepteur amet voluptate cupidatat voluptate proident nulla et aliquip proident irure consequat.",
+        "spans": []
+      }
+    ]
+  }
+}
