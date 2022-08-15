@@ -1,6 +1,6 @@
 import type { NextPage } from 'next'
 
-import { SignInButton } from '@components/index'
+import { SignInButton, ActiveLink } from '@components/index'
 
 import styles from './styles.module.scss'
 
@@ -11,8 +11,13 @@ const Header: NextPage = () => {
         <img src="/images/logo.svg" alt="ig.news" />
 
         <nav>
-          <a className={styles.active}>Home</a>
-          <a>Posts</a>
+          <ActiveLink activeClassName={styles.active} href='/'>
+            <a>Home</a>
+          </ActiveLink>
+
+          <ActiveLink activeClassName={styles.active} href='/posts'>
+            <a>Posts</a>
+          </ActiveLink>
         </nav>
 
         <SignInButton />
